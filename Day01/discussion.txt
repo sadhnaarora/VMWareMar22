@@ -111,6 +111,66 @@ class str:
 	we don't have a setter method.
 
 
+1! = 1
+2! = 2
+145! = 1! + 4! + 5!
+	 = 1  + 24 + 120
+     = 145
+
+40585! = 
+
+
+flavours of Python
+------------------
+1. Cpython
+2. Jython			- python code to java code
+3. Iron python		- dotnet code 
+
+python -m filename		=> converts the python code to bytecode (.py => .pyc)
+
+
+Data Structures
+---------------
+1. lists
+2. dictionaries
+3. tuples
+4. sets
+
+
+Lists
+-----
+
+Arrays
+------
+1. contigous memory allocation
+2. homogenous data
+
+
+Lists
+-----
+1. hetrogenous data
+2. memory allocation is not contigious
+3. ordered collection
+4. it is subscriptable
+5. mutable
+6. enclosed in [ ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
