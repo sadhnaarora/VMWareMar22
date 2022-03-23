@@ -31,3 +31,10 @@ print(f"st[-1:-12:-1] :{st[-1:-12:-1]}")
 print(f"st[-1::-1]    :{st[-1::-1]}")
 print(f"st[:-12:-1]   :{st[:-12:-1]}")
 print(f"st[::-1]      :{st[::-1]}")
+
+print("-" * 40)
+print(f"st[6] :{st[6]}")
+# st[6] = "W"
+
+print("-" * 40)
+print(dir(st))
