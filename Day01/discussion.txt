@@ -1,0 +1,140 @@
+python - www.python.org 		=> 3.10.x			=> 3.9
+
+editor - pycharm CE, VS code CE, sublimetext, jupyter notebook
+
+
+python
+------
+language features =>	C
+OOPs			   =>	C++, Java, Dotnet
+Web Application   =>  Django -> (MVC, ORM, REST API), flask
+Dektop			   =>  python and TK (TCL / TK)
+Testing			   =>  pytest, selenium
+Automation		   =>  paramiko
+ETL				   =>  petl
+Data Science	   
+	a. data anlytics	-> Numpy, pandas, seaborn, matplotlib
+	b. ML				->
+	c. AI				->
+
+
+Python 3.x
+-----------
+1. SDK
+2. IDLE		- Integrated development Environment
+3. Shell	- 
+
+
+C:\Users\Kiran\AppData\Local\Programs\Python\Python39
+
+
+operator overloaded
+-------------------
++ operator		=>	addition and concatenation
+* operator		=>	multiplication and printing a string n number of times
+
+
+
+
+st1 = "hello \n"
+st2 = 'hello \n'
+
+print(f"The result is :{fun('hello')}") 
+
+-------------------------------------------------------------
+Module 		- imp
+function 	- reload
+
+
+------------------------------------------------------------------------------------------------
+data types in python
+--------------------
+1. Number
+	a. integer
+	b. float
+	c. complex number
+
+2. string
+
+3. boolean
+
+
+Loops and control structures
+----------------------------
+control structures
+------------------
+1. if condition
+
+Loops
+-----
+1. for
+2. while
+
+
+accepting user input
+--------------------
+2.x
+----
+1. raw_input		-	accept data in string format
+2. input			-	accept data in number format
+
+
+3.x
+----
+1. input			-	accept data in string format
+
+
+problems
+--------
+
+1. write a python code to print this pattern
+
+1 2 3 4 5
+ 1 2 3 4
+  1 2 3
+   1 2
+    1
+   2 1
+  3 2 1
+ 4 3 2 1
+5 4 3 2 1
+
+2. find the prime numbers between 150 and 50 and also print the count of it.
+
+Strings
+-------
+1. string are immutable
+
+
+class str:
+
+	we don't have a setter method.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
