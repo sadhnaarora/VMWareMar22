@@ -53,6 +53,17 @@ res = sorted(l, key=ascii)
 
 print(f"res :{res}")
 
+print("-" * 40)
+cities = ['vishakapatnam', 'bangalore', 'pune', 'mysore', 'delhi', 'thiruvananthapuram',
+          'hyderabad', 'kanyakumari', 'ooty', 'madurai', 'mumbai']
+print(f"cities :{cities}")
+
+print("-" * 40)
+
+res = sorted(cities, key=len)
+print(f"res :{res}")
+
+
 """
 cities = ['vishakapatnam', 'bangalore', 'pune', 'mysore', 'delhi', 'thiruvananthapuram',
           'hyderabad', 'kanyakumari', 'ooty', 'madurai', 'mumbai']
