@@ -1,0 +1,120 @@
+Dictionaries
+------------
+1. Associative Arrays
+2. keys in a dictionary is unique
+3. ordered collection
+4. mutable
+5. enclosed in { }
+6. key and value is seperated by : and key value pairs are seperated by a ,
+
+
+arrays => elements are extracted by thier indexes
+
+ 0  1  2  3  4  5
+[a, b, c, d, e, f]			=> {0: 'a', 1: 'b', 2: 'c', 3: 'd', 4: 'e', 5: 'f'}
+ 
+keys can be user defined
+
+d = {0: 'a', 1: 'b', 2: 'c', 3: 'd', 4: 'e', 5: 'f'}
+
+=>3: 'd'
+
+d4 = {{1: 2, 2: 4} {3: 9, 4: 16} {5: 25, 6: 36}}
+
+
+part-1			
+------
+d2 = d1
+d2 = d1.copy()
+
+
+part2
+-----
+d2 = d1.copy()
+d2 = deepcopy(d1)
+
+
+----------------------------------------------------------
+
+l = [ ,{}, ]
+
+svcdata = [{}{}{}{}]  => master data
+
+scvdata1 = svcdata.copy()
+
+
+
+svc = {}
+
+
+            svc['Name'] = i.split()[0]
+            svc['Ready'] = i.split()[1]
+            svc['Status'] = i.split()[2]
+            svc['Restart'] = i.split()[3]
+            svc['Age'] = i.split()[4]
+            svc['IP'] = i.split()[5]
+            svc['Node'] = i.split()[6]
+
+            svcdata.append(svc.copy())
+
+
+
+
+------------------------------------------------------------------------------
+
+tuples
+------
+1. tuples are immutable lists
+2. tuples are immutable
+3. tuples are enclosed in ()
+4. tuples are subsriptable
+
+
+sets
+----
+1. elements of a set is unique
+2. sets are unordered collection
+3. set are mutable
+4. sets are not subscriptable
+5. sets are enclosed in {}
+
+
+Functions
+----------
+recursive calls
+---------------
+1. Factorial of a number using recursive calls
+2. fibanocci series using recursive calls
+
+
+lambdas
+-------
+anonymous functions -> with a single expression
+
+result of the expression = lambda var1, var1...: expression			
+
+
+comprehension
+--------------
+lambda syntax to iterate through a collection (list, dictionary)
+
+
+Scope of a variable
+-------------------
+local
+global
+non local
+
+
+
+
+
+
+
+
+
+
+
+
+
+
